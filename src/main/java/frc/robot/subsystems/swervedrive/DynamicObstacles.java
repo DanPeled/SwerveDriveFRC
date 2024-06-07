@@ -200,4 +200,7 @@ public class DynamicObstacles {
         return ArrayUtil.collectionToArray(m_obstacles.values());
     }
 
+    public void assign() {
+        // TODO
+    }
 }
